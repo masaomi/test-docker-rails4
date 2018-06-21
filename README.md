@@ -1,5 +1,6 @@
 # test-docker-rails4
-# 20180621 masa
+
+20180621 masa
 
 Command log
 ```
